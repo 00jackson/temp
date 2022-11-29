@@ -1,0 +1,7 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "client and developer",
+  "main": "index.html",
+  "license": "MIT"
+}
